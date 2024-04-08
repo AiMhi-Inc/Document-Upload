@@ -1,4 +1,4 @@
-# Desktop File Selector: A Python Utility for File Uploads
+# Desktop File Selector: A Python Utility for File Uploads and Dataverse Storage
 
 This Python utility allows users to select and upload files from their desktop. It uses the Tkinter library to open a file dialog and return the path of the selected file.
 
